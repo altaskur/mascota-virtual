@@ -1,0 +1,22 @@
+{
+  "name": "mascota-virtual",
+  "version": "0.1.0",
+  "description": "Virtual-pet Exercise for practice Typescript and css animations",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altaskur/mascota-virtual.git"
+  },
+  "author": "Altaskur",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/altaskur/mascota-virtual/issues"
+  },
+  "homepage": "https://github.com/altaskur/mascota-virtual#readme"
+}
