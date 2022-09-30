@@ -1,0 +1,19 @@
+body {
+    background-image: url("../img/background-patterns/leaves.png");
+}
+
+main .mainInner {
+    width: var(--parallax-height);
+    height: var(--parallax-height);
+
+    border: 19px solid #D397CD;
+    border-radius: 15px;
+
+    margin: auto auto;
+
+}
+
+main .mainInner .parallaxContainer {
+    width: 100%;
+    height: 100%;
+}

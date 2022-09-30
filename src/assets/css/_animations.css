@@ -1,0 +1,27 @@
+.pet.ui-greeting {
+    animation: greeting 0.5s steps(2) infinite;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+@keyframes greeting {
+    0% {
+        background: url(../img/mapache/Saludo1.png);
+        height: 100%;
+        width: 100%;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+
+    100% {
+        background: url(../img/mapache/Saludo2.png);
+        height: 100%;
+        width: 100%;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+}

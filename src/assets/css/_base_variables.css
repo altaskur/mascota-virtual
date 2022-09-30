@@ -1,3 +1,5 @@
 /* File: <_base_variables.css> */
 
-:root {}
+:root {
+    --parallax-height: 450px;
+}

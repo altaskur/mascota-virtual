@@ -16,3 +16,11 @@ Cuando hambre y sueño lleguen a 0, comerán o dormirán.
 En caso de que los estados se solapen, hambre tiene prioridad a sueño.
 
 En cada bucle de tiempo idle, va haber una cierta posibilidad de que se dispare el saludo.
+
+## Animaciones
+
+* Dormir
+  * Caída
+    La acción desde que se tambalea hasta que llega al suelo
+  * Durmiendo
+    respiración desde que esta en el suelo.
