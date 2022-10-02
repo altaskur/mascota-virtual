@@ -23,7 +23,3 @@ main .petContainer .petContainerInner .pet {
     background-repeat: no-repeat;
 
 }
-
-.pet.ui-idle {
-    background: url(../img/mapache/Estatico.png);
-}
